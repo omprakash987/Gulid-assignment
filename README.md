@@ -1,5 +1,5 @@
 #How to start 
 
--run the command : (https://github.com/omprakash987/Gulid-assignment.git)
+-run the command : git clone https://github.com/omprakash987/Gulid-assignment.git
 - cd frontend
-npm install
+-npm install
